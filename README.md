@@ -1,0 +1,2 @@
+# tradecalculator
+calculadora para trade
